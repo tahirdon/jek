@@ -2,7 +2,7 @@
 youtubeId: putYourIDHere
 vimeoId: putYourIDHere
 twitchId: putYourIDHere
-driveId: 156FD-I0R-SmDidC0FjvEGljL3V6UvkDu/edit
+driveId: 156FD-I0R-SmDidC0FjvEGljL3V6UvkDu
 ---
 # Embed Youtube
 
@@ -48,7 +48,7 @@ More Flavor text. Flavor text. Flavor text. Flavor text. Flavor text. Flavor tex
 <!---
 Include this next line in your .md file for Google Drive videos, make sure to put your video ID up there!
 
-Example:-->     driveId: 156FD-I0R-SmDidC0FjvEGljL3V6UvkDu/edit
+Example:-->     driveId: 156FD-I0R-SmDidC0FjvEGljL3V6UvkDu
 
 
 {% include googleDrivePlayer.html id=page.driveId %}
