@@ -48,7 +48,7 @@ More Flavor text. Flavor text. Flavor text. Flavor text. Flavor text. Flavor tex
 <!---
 Include this next line in your .md file for Google Drive videos, make sure to put your video ID up there!
 
-Example:     driveId: 0B7L_dMcaZknxVTRndmdSQ0F5OFE/preview
+Example:     driveId: 156FD-I0R-SmDidC0FjvEGljL3V6UvkDu/edit
 -->
 
 {% include googleDrivePlayer.html id=page.156FD-I0R-SmDidC0FjvEGljL3V6UvkDu/edit %}
