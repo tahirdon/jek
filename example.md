@@ -51,4 +51,4 @@ Include this next line in your .md file for Google Drive videos, make sure to pu
 Example:     driveId: 0B7L_dMcaZknxVTRndmdSQ0F5OFE/preview
 -->
 
-{% include googleDrivePlayer.html id=page.156FD-I0R-SmDidC0FjvEGljL3V6UvkDu %}
+{% include googleDrivePlayer.html id=page.156FD-I0R-SmDidC0FjvEGljL3V6UvkDu/edit %}
